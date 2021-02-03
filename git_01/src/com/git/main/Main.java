@@ -11,6 +11,7 @@ public class Main {
 		System.err.println("Hello Spring!");
 		System.out.println("Hello jQuery!");
 		System.out.println("Hello Javascript!");
+		System.out.println("Hello JaAVA!");
 	}
 
 }
